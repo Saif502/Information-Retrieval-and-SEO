@@ -3,13 +3,13 @@
 This repository contains my practice work for the **Information Retrieval and Search Engine Optimization** course.
 
 ## Contents
-- `fake_news_crawling.ipynb` → Colab notebook with crawling code
+- `Practise/Fake news/fake_news_crawling.ipynb` → Colab notebook with crawling code
 - Crawling news data and testing on fake news sources
 
 ## How to Run
-1. Open the notebook in Google Colab:
-   [Open in Colab]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saif502/fake-news-crawling/blob/main/notebooks/fake_news_crawling.ipynb)
-)
+1. Open the notebook in Google Colab:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+   https://colab.research.google.com/github/saif502/Information-Retrieval-and-SEO/blob/main/Practise/Fake%20news/fake_news_crawling.ipynb)
 2. Run the cells step by step.
 
 ---
