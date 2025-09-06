@@ -1,5 +1,7 @@
 
 <img width="1916" height="929" alt="image" src="https://github.com/user-attachments/assets/300d7977-fe5b-4156-ae74-3563f671e1c6" />
+<img width="1914" height="927" alt="image" src="https://github.com/user-attachments/assets/33e391ce-a3a8-47f6-a2e1-d86d36bf4a4b" />
+
 
 
 # Enhanced Sports Search Engine
