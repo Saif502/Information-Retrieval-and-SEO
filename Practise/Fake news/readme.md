@@ -8,7 +8,8 @@ This repository contains my practice work for the **Information Retrieval and Se
 
 ## How to Run
 1. Open the notebook in Google Colab:
-   [Open in Colab](https://colab.research.google.com/github/saif502/fake-news-crawling/blob/main/fake_news_crawling.ipynb)
+   [Open in Colab]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saif502/fake-news-crawling/blob/main/notebooks/fake_news_crawling.ipynb)
+)
 2. Run the cells step by step.
 
 ---
